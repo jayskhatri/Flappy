@@ -17,7 +17,8 @@
 
 ## Prerequisites
 
-- Code is optimized to be compile with gcc only.
+- Clone and open with android studio
+- JAVA_SDK >= 1.8
 
 ## Author
 
